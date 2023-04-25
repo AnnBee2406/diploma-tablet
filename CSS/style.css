@@ -1931,7 +1931,7 @@ textarea {
   
   
   .goods-card:nth-child(2n+1) {
-    margin-right: calc(50% - 22px);
+    margin-right: 22px;
   }
 
   
